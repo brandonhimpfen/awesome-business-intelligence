@@ -57,6 +57,7 @@
 - [MetricFlow](https://github.com/dbt-labs/metricflow) – Open-source metrics engine.
 - [AtScale](https://www.atscale.com/) – Semantic layer and OLAP acceleration for BI tools.
 - [Cube](https://cube.dev/) – Headless BI and semantic layer platform.
+- [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer) – Open-source semantic sidecar that compiles YAML semantic models to optimized SQL across 8 engines (BigQuery, ClickHouse, Databricks, Dremio, DuckDB, MySQL, PostgreSQL, Snowflake). REST API, Arrow Flight SQL, and Postgres wire surfaces.
 
 ## Embedded Analytics
 
