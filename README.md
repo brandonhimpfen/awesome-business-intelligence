@@ -105,7 +105,7 @@
 - [Collibra](https://www.collibra.com/) – Data governance and catalog platform.
 - [Alation](https://www.alation.com/) – Enterprise data catalog for BI and analytics.
 - [Okta](https://www.okta.com/) – Identity and access management for BI tools.
-- [OneQuery](https://github.com/wordbricks/onequery) – Self-hosted gateway for safe, auditable agent queries across approved data sources.
+- [OneQuery](https://github.com/wordbricks/onequery) – Self-hosted gateway for safe, auditable queries for agents across approved data sources.
 
 ## Performance & OLAP
 
