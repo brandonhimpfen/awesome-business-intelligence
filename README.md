@@ -41,6 +41,7 @@
 - [Qlik Sense](https://www.qlik.com/us/products/qlik-sense) – Associative analytics and BI engine.
 - [Sisense](https://www.sisense.com/) – BI platform focused on embedded analytics.
 - [MicroStrategy](https://www.microstrategy.com/) – Enterprise BI and analytics platform.
+- [Helical Insight](https://www.helicalinsight.com/) – Completely free and open source BI with all enterprise features in free version.
 
 ## Dashboards & Reporting
 
@@ -49,7 +50,8 @@
 - [Power BI Reports](https://learn.microsoft.com/power-bi/) – Reporting capabilities within Power BI.
 - [Mode Analytics](https://mode.com/) – Analytics platform combining SQL, notebooks, and BI.
 - [SAP BusinessObjects](https://www.sap.com/products/technology-platform/businessobjects.html) – Enterprise reporting and dashboarding suite.
-
+- [Helical Insight](https://www.helicalinsight.com/) – Drag drop based dashboard with drill down drill through. Paginated reports. AI assisted analytics.
+- 
 ## Semantic Layers & Metrics
 
 - [LookML](https://cloud.google.com/looker/docs/lookml) – Modeling language for Looker’s semantic layer.
@@ -66,6 +68,7 @@
 - [Tableau Embedded Analytics](https://www.tableau.com/embedded-analytics) – Embedding Tableau dashboards into products.
 - [Looker Embedded](https://cloud.google.com/looker/docs/embed-overview) – Embedded analytics using Looker.
 - [Apache Superset Embedded](https://superset.apache.org/) – Embedding open-source BI dashboards.
+- [Helical Insight](https://www.helicalinsight.com/) – Support of various methods of embedding, white labeling and SSO in the free open source version also
 
 ## Self-Service BI
 
@@ -74,6 +77,7 @@
 - [Qlik Self-Service Analytics](https://www.qlik.com/us/solutions/self-service-analytics) – Associative self-service BI.
 - [Metabase](https://www.metabase.com/) – User-friendly analytics for non-technical teams.
 - [Redash](https://redash.io/) – Query-based BI and dashboards.
+- [Helical Insight](https://www.helicalinsight.com/) – Low code no code interface. Support of AI assisted agentic analytics, self service drag drop based dashboard, pixel perfect paginated reports. Entire platform drag drop based. Fully open source and free.
 
 ## Open-Source BI
 
