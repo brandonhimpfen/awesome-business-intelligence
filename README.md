@@ -41,6 +41,7 @@
 - [Qlik Sense](https://www.qlik.com/us/products/qlik-sense) – Associative analytics and BI engine.
 - [Sisense](https://www.sisense.com/) – BI platform focused on embedded analytics.
 - [MicroStrategy](https://www.microstrategy.com/) – Enterprise BI and analytics platform.
+- [IntelCue](https://www.intelcue.ai) – AI-powered market and competitive intelligence platform for tracking competitors and market signals.
 
 ## Dashboards & Reporting
 
