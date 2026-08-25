@@ -37,6 +37,7 @@
 
 - [Tableau](https://www.tableau.com/) – Industry-leading BI platform for interactive analysis.
 - [Power BI](https://powerbi.microsoft.com/) – Microsoft BI and reporting platform.
+- [Basedash](https://www.basedash.com/) – AI-native business intelligence. Ask questions in plain English and get SQL-backed answers, dashboards, and reports from 750+ data sources.
 - [Looker](https://cloud.google.com/looker) – BI platform built around a semantic modeling layer.
 - [Qlik Sense](https://www.qlik.com/us/products/qlik-sense) – Associative analytics and BI engine.
 - [Sisense](https://www.sisense.com/) – BI platform focused on embedded analytics.
