@@ -49,6 +49,7 @@
 - [Power BI Reports](https://learn.microsoft.com/power-bi/) – Reporting capabilities within Power BI.
 - [Mode Analytics](https://mode.com/) – Analytics platform combining SQL, notebooks, and BI.
 - [SAP BusinessObjects](https://www.sap.com/products/technology-platform/businessobjects.html) – Enterprise reporting and dashboarding suite.
+- [Equipment Capital Index](https://www.equipmentcapitalindex.com/api/rate-report.json) – Free, open API and dataset for real commercial equipment financing rate and payment benchmarks, backed by a CC BY 4.0 dataset and Zenodo DOI.
 
 ## Semantic Layers & Metrics
 
